@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "Krrish 3",
+        "genre": "Action",
+        "country": "India",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+        "views": "9954",
+        "thumb": "https://occ-0-999-1001.1.nflxso.net/art/2de07/260906b782c58c83953871b77a78ef4cb4b2de07.jpg",
+        "poster": "https://stat2.bollywoodhungama.in/wp-content/uploads/2016/03/73909941.jpg",
+        "src": [{"type":"HLS/M3U8/HTTP","label":"SD","url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"},{"type":"HLS/M3U8/HTTP","label":"HD","url":"https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"},{"type":"HLS/M3U8/HTTP","label":"FHD+","url":"https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8"},{"type":"HLS/M3U8/HTTP","label":"4K","url":"http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"},{"type":"HLS/M3U8/HTTP","label":"8K","url":"http://www.streambox.fr/playlists/test_001/stream.m3u8"}],
+        "featured": "1",
+        "published": "1",
+        "date_created": "1604987493",
+        "date_updated": "1604987493"
+    },
+    {
+        "id": "2",
+        "title": "Krrish 3",
+        "genre": "Action",
+        "country": "India",
+        "description": "It is a biographical feature film on India's Highest Wartime Gallantry Award - Param Vir Chakra winner Subedar Joginder Singh. He fought three wars for India before achieving martyrdom in the Sino-Indian War of 1962.",
+        "views": "9954",
+        "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Subedar_Joginder_Singh_-_Poster.jpg/220px-Subedar_Joginder_Singh_-_Poster.jpg",
+        "poster": "https://s1.dmcdn.net/v/NGjYE1REuY5GX7S3r/x1080",
+        "src": [{"type":"HLS/M3U8/HTTP","label":"SD","url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"},{"type":"HLS/M3U8/HTTP","label":"HD","url":"https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"},{"type":"HLS/M3U8/HTTP","label":"FHD+","url":"https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8"},{"type":"HLS/M3U8/HTTP","label":"4K","url":"http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"},{"type":"HLS/M3U8/HTTP","label":"8K","url":"http://www.streambox.fr/playlists/test_001/stream.m3u8"}],
+        "featured": "1",
+        "published": "1",
+        "date_created": "1604987493",
+        "date_updated": "1604987493"
+    }
+]
