@@ -3,6 +3,8 @@
       {
           "title": "HLS Test Stream",
           "watching": "0",
+          "likes": "46123",
+          "dislikes": "31",
           "id": "6",
           "featured": "0",
           "thumb": "http://localhost:8080/idleFramework/photos/thumb/thumb_981054_1604987201.jpg",
@@ -14,6 +16,8 @@
       {
           "title": "HLS Test Stream",
           "watching": "0",
+          "likes": "50000",
+          "dislikes": "500",
           "id": "2",
           "featured": "1",
           "thumb": "http://localhost:8080/idleFramework/photos/thumb/thumb_981054_1604987201.jpg",
