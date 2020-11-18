@@ -1,6 +1,8 @@
 {
     "title": "HLS Test Stream",
-    "watching": "0",
+    "watching": "2500",
+    "likes": "167",
+    "dislikes": "30",
     "id": "6",
     "featured": "0",
     "thumb": "http://localhost:8080/idleFramework/photos/thumb/thumb_981054_1604987201.jpg",
