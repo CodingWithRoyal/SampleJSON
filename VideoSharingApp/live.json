@@ -2,7 +2,7 @@
   "Film": [
       {
           "title": "HLS Test Stream",
-          "watching": "0",
+          "watching": "2500",
           "likes": "46123",
           "dislikes": "31",
           "id": "6",
@@ -15,7 +15,7 @@
   "Animation": [
       {
           "title": "HLS Test Stream",
-          "watching": "0",
+          "watching": "7301",
           "likes": "50000",
           "dislikes": "500",
           "id": "2",
