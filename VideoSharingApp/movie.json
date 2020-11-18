@@ -7,7 +7,7 @@
             "dislikes": "30",
             "id": "6",
             "featured": "0",
-            "thumb": "http://localhost:8080/idleFramework/photos/thumb/thumb_981054_1604987201.jpg",
+            "thumb": "https://raw.githubusercontent.com/IdleJatt/SampleJSON/master/VideoSharingApp/media/thumb_981054_1604987201.jpg",
             "category": "Film",
             "category_id": "3"
         }
@@ -20,7 +20,7 @@
             "dislikes": "144",
             "id": "2",
             "featured": "1",
-            "thumb": "http://localhost:8080/idleFramework/photos/thumb/thumb_981054_1604987201.jpg",
+            "thumb": "https://raw.githubusercontent.com/IdleJatt/SampleJSON/master/VideoSharingApp/media/thumb_981054_1604987201.jpg",
             "category": "Animation",
             "category_id": "2"
         }
